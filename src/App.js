@@ -32,7 +32,7 @@ function App() {
 
             <p>Data da compra:</p>
             <select>
-              <option value=""> Dia</option>
+              <option value="">Dia</option>
               <option value="01">01</option>
               <option value="02">02</option>
               <option value="03">03</option>
@@ -177,8 +177,8 @@ function App() {
             "Continuar", você estará concordando com a utilização, pela SMG, de
             cookies e outras tecnologias de obtenção de informações.
           </div>
-          <div className="footer">
-            <ul>
+          <div className="footer" align="center">
+            <ul align="center">
               <li>
                 <a
                   href="Projects/_globalconfigs/text/pdf/smgprivacypolicy/SMG_PP_pt-BR.pdf"
@@ -196,7 +196,7 @@ function App() {
                 </a>
               </li>
               <li >
-                © 2023{" "}
+                © 2023
                 <a href="https://www.smg.com" target="_blank" rel="noreferrer">
                   SMG
                 </a>
@@ -204,7 +204,7 @@ function App() {
               </li>
             </ul>
           </div>
-          ;
+          
         </div>
       </div>
     </div>
