@@ -1,0 +1,84 @@
+body {
+  background-image: url("./img/fundo-body.jpg");
+  background-repeat: repeat;
+  text-align: center !important;
+  
+
+}
+
+.image-logo {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-top: 10px;
+  
+}
+
+.content {
+  width: 80%;
+  height: 90vh;
+  background-color: #fff;
+  margin: 100px;
+  margin-top: 75px;
+}
+
+.container-form {
+  text-align: left;
+  margin: 20px;
+  margin-top: 10px;
+  background-image: url("./img/nota.png");
+  background-repeat: no-repeat;
+  min-height: 600px !important;
+  background-position: 670px 20px;
+  position: relative;
+}
+.text-conclusion{
+  width: 470px;
+  
+}
+.container-btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn-Continue{
+  text-align: center;
+  align-items: center;
+  width: 130px;
+  height: 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #8B0000;
+  color: #fff;
+  margin-bottom: 10px;
+}
+.container-english{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container-text{
+  font-size: 12px;
+  background-color: #474141;
+  width: 1000px;
+  color: #fff;
+  text-align: left;
+  margin: 70px;
+
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.footer ul {
+  text-decoration: none;
+  list-style: none;
+ 
+}
+.footer  li a{
+  text-decoration: none;
+  color: #000;
+}
