@@ -11,6 +11,7 @@
 <h3 align="center">Pesquisa de Satisfação  Mamma Mia</h3>
 
 <img src="src/img/img-projeto.png">
+<img src="src/img/footer.png">
 
 
 <p align="center">
