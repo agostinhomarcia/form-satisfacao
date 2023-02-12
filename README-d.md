@@ -44,7 +44,6 @@ The following tools were used in this project:
 
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
-- [Bootstrap](https://getbootstrap.com/)
 - [React](https://pt-br.reactjs.org/)
 
 
